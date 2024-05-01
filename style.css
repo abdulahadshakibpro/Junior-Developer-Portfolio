@@ -1,0 +1,45 @@
+
+body{
+    margin:0;
+}
+section{
+    display:flex;
+    
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat:no-repeat;
+}
+.big-dream{
+    background-image:url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position:right;
+}
+#half-width{
+    padding-right:80px;
+}
+.half-width{
+    padding-left:60px;
+
+}
+.half-width img{
+    padding-right:100px;
+    padding-top:20px;
+}
+#half-width img{
+    padding-left:100px;
+}
+span{
+    color:rgb(34, 158, 34);
+}
+a{
+    font-size:18px;
+    text-decoration:none;
+    color:black;
+    background-color:lightgreen;
+    border:lightgreen solid 5px;
+}
+p{
+    font-size:18px;
+    text-align:justify;
+}
