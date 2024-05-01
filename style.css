@@ -2,7 +2,7 @@
 body{
     margin:0;
 }
-section{
+.flexible-container{
     display:flex;
     
 }
@@ -20,6 +20,7 @@ section{
 }
 .half-width{
     padding-left:60px;
+    width:50%;
 
 }
 .half-width img{
@@ -42,4 +43,8 @@ a{
 p{
     font-size:18px;
     text-align:justify;
+}
+#h1{
+    padding-left:60px;
+    font-size:30px;
 }
