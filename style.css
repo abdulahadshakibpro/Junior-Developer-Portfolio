@@ -41,11 +41,6 @@ span{
 .orange-color{
     color:orange;
 }
-.experiance-area{
-    background-image:url(images/exp-bg.png);
-    background-repeat:no-repeat;
-    background-position:left;
-}
 .experiance-item{
     width:40%;
     box-shadow:10px 10px 40px grey;
@@ -54,6 +49,7 @@ span{
     margin-left:5%;
     margin-right:5%;
     margin-bottom:20px;
+    margin-top:55px;
 }
 #Full-Stack-Web-Developer{
     border-top:solid 7px orange;
@@ -63,4 +59,7 @@ span{
 }
 h3{
     text-align:center;
+}
+.Experiance{
+    padding-left:30px;
 }
